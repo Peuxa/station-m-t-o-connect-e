@@ -1,6 +1,3 @@
-/*
-
-*/
 #define PIN_ANEMO D3
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
