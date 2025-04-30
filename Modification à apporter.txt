@@ -1,0 +1,6 @@
+[----------------------------------------]
+
+ - Convertir les valeurs de la girouette pour indiquer la bonne direction du vent,
+ - Faire en sorte que l'écran affiche toutes les valeurs,
+
+[----------------------------------------]

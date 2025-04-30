@@ -22,8 +22,8 @@ float getGirouetteAngle(int value) {
   if (value > 78 && value < 85) angle = O;
   if (value > 88 && value < 98) angle = E;
   if (value > 60 && value < 70) angle = S;
-  if (value > 180 && value < 190) angle = 135;
-  if (value > 122 && value < 132) angle = 157.5;
+  if (value > 180 && value < 190) angle = S-E;
+  if (value > 122 && value < 132) angle = S-O;
 
   return direction;
 }
